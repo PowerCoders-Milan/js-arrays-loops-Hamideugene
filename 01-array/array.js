@@ -1,4 +1,5 @@
 // define an array with 5 elements
-const array = [];
+const cars = ['bmw' ,'volvo','audi','opel','mercedes'];
 // console.log() the 3rd element
-console.log();
+cars [3] = 'audi';
+console.log('audi');
